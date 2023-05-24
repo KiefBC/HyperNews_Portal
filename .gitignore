@@ -1,0 +1,12 @@
+# Ignore compiled output
+/build/
+/dist/
+
+# Ignore IDE and editor files
+/.idea/
+/.vscode/
+*.iml
+
+# Typical Hyperskill Files
+/test/
+/tests.py
